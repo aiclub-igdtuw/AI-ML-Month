@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=ok2s1vV9XW0&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn
 -Speaker Sessions-
 
 ## 👩‍💻 Week 5
-PROJECTS :
+PROJECT SUBMISSIONS
 
 
 
