@@ -4,7 +4,7 @@ AI Club IGDTUW </h1>
 <h3 align="center"> 6th June-11 July</h3>
 
 
-# ✒️ Cheatsheet 
+# ✒️ Cheatsheets
 https://towardsdatascience.com/5-minutes-cheat-sheet-explaining-all-machine-learning-models-3fea1cf96f05 <br />
 https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf <br />
 https://www.freecodecamp.org/news/git-cheat-sheet/ <br />
