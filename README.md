@@ -1,3 +1,4 @@
+<h1 align="center"> 🤖 </h1>
 <h1 align="center"> AI-ML-Month <br />
 AI Club IGDTUW </h1>
 <h3 align="center"> 6th June-11 July</h3>
