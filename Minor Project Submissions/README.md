@@ -1,5 +1,4 @@
 # Mini project : (you need to perform EDA on the given dataset)
-## File for questions : https://docs.google.com/document/d/1LNIf39d1IfLdDftUtRkbWvq2MlTTtb0bjwB2iqgyOBU/edit?usp=sharing
 
 #### Superstore : https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
 #### Honey Production : https://www.kaggle.com/datasets/jessicali9530/honey-production.
