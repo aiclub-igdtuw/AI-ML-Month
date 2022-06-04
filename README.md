@@ -5,9 +5,9 @@ AI Club IGDTUW </h1>
 
 
 # ✒️ Cheatsheet 
-ML algortithms - https://towardsdatascience.com/5-minutes-cheat-sheet-explaining-all-machine-learning-models-3fea1cf96f05 <br />
-Python - https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf <br />
-Github - https://www.freecodecamp.org/news/git-cheat-sheet/ <br />
+https://towardsdatascience.com/5-minutes-cheat-sheet-explaining-all-machine-learning-models-3fea1cf96f05 <br />
+https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf <br />
+https://www.freecodecamp.org/news/git-cheat-sheet/ <br />
 https://www.pythoncheatsheet.org/ <br />
 https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet <br />
 https://www.python-graph-gallery.com/cheat-sheets/ <br />
