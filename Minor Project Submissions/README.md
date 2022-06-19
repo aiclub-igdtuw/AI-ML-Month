@@ -3,14 +3,15 @@
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
-Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
-Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
 
 ![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)<br>
-Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
-Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
 
 ![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
+## Datasets <br>
+Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
+Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
+Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
+Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
 Covid-19 Clinical Trials Dataset: https://www.kaggle.com/datasets/parulpandey/covid19-clinical-trials-dataset <br>
 
 This folder contains the document containing all the problem statements and the titles have hyperlinks to the datasets.
@@ -21,9 +22,6 @@ You can go through them and pick one to solve.
 4) Create a text cell to give explanations wherever you think is necessary.
 5) The visualization questions must be accompanied with an explanation as well as conclusions.
 6) **Write all the answers in point form. Answers must be to the point.**
-
-Pdf file containing questions: <br>
-https://drive.google.com/file/d/1ai3hdeqNCPQbv59QHN76-xZ_vryMsz96/view?usp=sharing
 
 ## Submission procedure:
 Follow this video for the submission. <br>
