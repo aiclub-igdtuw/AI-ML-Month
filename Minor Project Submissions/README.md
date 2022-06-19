@@ -7,6 +7,7 @@
 ![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)<br>
 
 ![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
+
 ## Datasets <br>
 Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
 Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
@@ -14,8 +15,7 @@ Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-pr
 Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
 Covid-19 Clinical Trials Dataset: https://www.kaggle.com/datasets/parulpandey/covid19-clinical-trials-dataset <br>
 
-This folder contains the document containing all the problem statements and the titles have hyperlinks to the datasets.
-You can go through them and pick one to solve.
+You can go through all the problem statements above and pick one to solve. After that follow these steps -
 1) Create a jupyter notebook or a colab notebook.
 2) Show all the calculations required and print them.
 3) The final calculation for the answer must be in a separate cell.
