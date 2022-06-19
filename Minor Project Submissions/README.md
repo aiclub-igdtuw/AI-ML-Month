@@ -7,15 +7,15 @@ You can go through them and pick one to solve.
 4) Create a text cell to give explanations wherever you think is necessary.
 5) The visualization questions must be accompanied with an explanation as well as conclusions.
 
-Pdf file containing questions:
+Pdf file containing questions: <br>
 https://drive.google.com/file/d/1ai3hdeqNCPQbv59QHN76-xZ_vryMsz96/view?usp=sharing
 
 ## Submission procedure:
+Follow this video for the submission. <br>
 https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
-Follow this video for the submission.
 
 ## Pull request naming format:
-  Name_Dataset name
+  #### Name_Dataset name <br>
   For example: Manvi Kaur_Loan Default Prediction
   
 For any doubts or queries, put them on our discord server and we'll get back to you.
