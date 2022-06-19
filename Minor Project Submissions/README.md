@@ -16,3 +16,5 @@ Pull request naming format:
   
 For any doubts or queries, put them on our github channel and we'll get back to you.
 ALL THE BEST!!
+
+SUBMIT BY 24th JUNE 12PM SHARP
