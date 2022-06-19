@@ -2,11 +2,16 @@
 
 ## Problem Statements
 
-![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)
+![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
+Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
+Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
 
-![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)
+![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)<br>
+Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
+Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
 
-![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)
+![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
+Covid-19 Clinical Trials Dataset: https://www.kaggle.com/datasets/parulpandey/covid19-clinical-trials-dataset <br>
 
 This folder contains the document containing all the problem statements and the titles have hyperlinks to the datasets.
 You can go through them and pick one to solve.
