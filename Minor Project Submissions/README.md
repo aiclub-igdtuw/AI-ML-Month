@@ -13,7 +13,7 @@ Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-def
 Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
 Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
 Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
-Covid-19 Clinical Trials Dataset: https://www.kaggle.com/datasets/parulpandey/covid19-clinical-trials-dataset <br>
+Covid-19 Dataset: https://www.kaggle.com/datasets/imdevskp/corona-virus-report <br>
 
 You can go through all the problem statements above and pick one to solve. After that follow these steps -
 1) Create a jupyter notebook or a colab notebook.
