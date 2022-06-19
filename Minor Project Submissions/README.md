@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=shari
   #### Name_Dataset name <br>
   For example: Manvi Kaur_Loan Default Prediction
   
-For any doubts or queries, put them on our discord server and we'll get back to you.
+For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
 ALL THE BEST!!
 
 ## SUBMIT BY 24th JUNE 12PM SHARP
