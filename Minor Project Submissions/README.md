@@ -6,7 +6,7 @@ You can go through them and pick one to solve.
 3) The final calculation for the answer must be in a separate cell.
 4) Create a text cell to give explanations wherever you think is necessary.
 5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) #### Write all the answers in point form. Answers must be to the point.
+6) *Write all the answers in point form. Answers must be to the point.*
 
 Pdf file containing questions: <br>
 https://drive.google.com/file/d/1ai3hdeqNCPQbv59QHN76-xZ_vryMsz96/view?usp=sharing
