@@ -7,7 +7,7 @@ You can go through them and pick one to solve.
 4) Create a text cell to give explanations wherever you think is necessary.
 5) The visualization questions must be accompanied with an explanation as well as conclusions.
 
-Pdf file containing questions:
+Pdf file containing questions:\b
 https://drive.google.com/file/d/1ai3hdeqNCPQbv59QHN76-xZ_vryMsz96/view?usp=sharing
 
 ## Submission procedure:
