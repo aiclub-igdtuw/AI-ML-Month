@@ -13,7 +13,7 @@ Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-def
 Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
 Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
 Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
-Covid-19 Dataset: https://www.kaggle.com/datasets/imdevskp/corona-virus-report <br>
+Covid-19 Dataset: https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinical-trials/data <br>
 
 You can go through all the problem statements above and pick one to solve. After that follow these steps -
 1) Create a jupyter notebook or a colab notebook.
@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=shari
   #### Name_Dataset name <br>
   For example: Manvi Kaur_Loan Default Prediction
   
-For any doubts or queries, put them on our discord server and we'll get back to you.
+For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
 ALL THE BEST!!
 
 ## SUBMIT BY 24th JUNE 12PM SHARP
