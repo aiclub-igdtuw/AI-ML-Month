@@ -36,4 +36,4 @@ https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=shari
 For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
 ALL THE BEST!!
 
-## SUBMIT BY 7th July 12PM SHARP
+## SUBMIT BY 7th JULY 12PM SHARP
