@@ -1,4 +1,5 @@
 # Major project : 
+# (This can done in groups of 2 - 3 people)
 
 ## Problem Statements - 
 
