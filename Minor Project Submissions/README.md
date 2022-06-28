@@ -1,4 +1,7 @@
 # Mini project :
+colab link: https://colab.research.google.com/drive/1GbqVko7e2Uei-oh8v-_M4pJMxWsiAPL-#scrollTo=qfCzmPVHWePU
+ 
+ accurecy: 80-90% and for some specific programs there will be 90%
 
 ## Problem Statements
 
