@@ -1,0 +1,12 @@
+OBSERVATIONS DRAWN FROM EDA ON SUPERSTORE DATASET:
+
+1.The standard class ship mode has highest sales, whereas the same day ship mode has least sales.
+2.Segment wise sales and profit are higher for consumer segment.
+3.Sub - Category wise highest quantity is of binders and lowest of tables
+4.The sub-category machines has highest sales wheras the sub-category Copiers has highest profit.
+5.The sub-category tables has lowest profit and sub-category fasteners has lowest sales.
+6.The category technology has highest sales.
+7.The sales through standard ship mode is the highest. Home office segment has highest sales.
+
+8. We encounterd outliers in our dataset, which are an important aspect of our dataset.
+We simply cannot remove outliers because they might contain major values of our dataset.
