@@ -1,5 +1,7 @@
 # Mini project :
 
+collab Notebook: https://colab.research.google.com/drive/1lsuYHW3eZbdErJrEQg2xNDyuCg_smgbq?usp=sharing
+
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
