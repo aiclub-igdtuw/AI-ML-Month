@@ -1,4 +1,11 @@
 # Mini project :
+Problem Statement: Loan Default Prediction 
+Colab Link: https://colab.research.google.com/drive/1oiE40PbWLSXsLcA8Ls2r1lMXtyU4UVY0?usp=sharing
+Result: The findings of the given Data Visualization project are as follows:
+        1. There is a great disparity between the bank balance of the people who have been granted a grace period and those who have not been granted a grace period.
+        2. The policies of the bank have been made keeping in mind the economic bankground of all its costumers.
+        3. The interest rate of 2.5% charged is quite feasible for all.
+        4. The policy of giving a grace period of 15 days to the customers having a certain amount of funds in the bank encourages more people to invest in the bank.
 
 ## Problem Statements
 
