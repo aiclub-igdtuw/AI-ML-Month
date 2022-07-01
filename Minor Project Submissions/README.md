@@ -1,5 +1,11 @@
 # Mini project :
 
+colab link: https://colab.research.google.com/drive/1x2JxONRlVf7xUiTgEKEvzF0ObFxD_EaA?usp=sharing
+project on covid-19 dataset 
+we studied and analysed different types of data such as the countries and cases and deaths happening in the country.
+also the age and gender scenerio as in how many people of what age and gender are affected to what extend.
+we also located the places on the world map regarding the location for the study and medicine of covid.
+the aim for the project was to highlight and study different aspects of covid-19 data in detail using simple visualizations such as bar graphs,pie chart or histogram.
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
