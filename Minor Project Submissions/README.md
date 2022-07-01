@@ -1,5 +1,14 @@
 # Mini project :
 
+COLAB LINK- https://colab.research.google.com/drive/1m0BebYPznWkzvTsLPaw3tVAAWhkFUMpd?usp=sharing
+
+FINDINGS-This project on 'Exploratory Data Analysis' tells us that-
+         1) Bar graph was the best option according to me out of all the plots taught for the graphs given in problems because bar graph makes it easier to show differences in data of 2 datas plotted for contiguous values .
+         2)The bank is very exclusive for all types of people who use their bank services. People of differing economic backgrounds have been given right consideration.
+         3)The rate of 2.5% fine is a bit less as compared to the banks in the real world scenario. This makes the services of the bank more easily accessible and affordable.
+         4) The graphs show that there are many differences in the bank balance and annual salary of people with grace and without grace.
+         5) The data set given is well organised , informative and contains all required information accurately.
+
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
