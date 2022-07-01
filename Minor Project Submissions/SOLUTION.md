@@ -1,6 +1,6 @@
 # SOLUTION
 
-Colob Link - https://colab.research.google.com/drive/1j2pfyix4YQDdXri6-FHxLK8XQE5FebkS?usp=sharing
+Colab Link - https://colab.research.google.com/drive/1j2pfyix4YQDdXri6-FHxLK8XQE5FebkS?usp=sharing
 
 # **DATASET** **IMPORTING**
 * The data set was downloaded and uploaded on github within the repository.
