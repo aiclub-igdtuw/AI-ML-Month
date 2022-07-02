@@ -35,3 +35,17 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
+
+
+
+
+colab link:https://colab.research.google.com/drive/1ysGtiIM1T40bnqjNibrVsyFx-qZT1aQa?usp=sharing
+
+results:
+3)"STANARD CLASS" shipmode has the highest impact on the sales.
+4)"consumer" is having highest sales and "consumer" is having highest profit.
+5)"BINDERS" has the maximum sub category wise count and "TABLES" has the minimum sub category wise count.
+6)NEW YORK" has the maximum sub city wise count and "ABILENE" has the minimum city wise count.
+7)"England" has the maximum sub city wise count and "Matabeleland North" has the minimum city wise count.
+8a) "TECHNOLOGY" has the maximum Category wise sales performance and "FURNITURE" has the minimum Category wise sales performance .
+8b) "COPIERS" has the maximum Sub-Category wise sales performance and "MACHINES" has the minimum Sub-Category wise sales performance .
