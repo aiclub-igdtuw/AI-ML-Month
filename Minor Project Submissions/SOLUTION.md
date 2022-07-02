@@ -1,2 +1,7 @@
 # SOLUTION
+CHHAVI RAJORA
+08901172021
+CSAI-2
+SUPERSTORE_MINOR PROJECT
+LINK FOR THE PROJECT https://colab.research.google.com/drive/1Vqk8Q0u0wj2vpcsscP0xHfNa1zTomYx8?authuser=1#scrollTo=C8siNeKM8BXL
 
