@@ -1,4 +1,6 @@
 # Mini project :
+MINOR PROJECT COLAB LINK:https://colab.research.google.com/drive/1G9Z6t9J0dd_ZcK15F8iraVvDGamqGFbb#scrollTo=mzrG3nR26J2U
+
 
 ## Problem Statements
 
