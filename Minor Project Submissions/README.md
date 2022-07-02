@@ -1,37 +1,28 @@
 # Mini project :
-
-## Problem Statements
-
-![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
-
-![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)<br>
-
-![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
-
-## Datasets <br>
-Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
-Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
-Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
-Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
-Covid-19 Dataset: https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinical-trials/data <br>
-
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
-
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
-
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
-
-## SUBMIT BY 2nd JULY 6PM SHARP
+jupiter notebook link:http://localhost:8888/notebooks/126_GARGI_BHARDWAJ_HONEY_PRODUCTION.ipynb#
+Findings:
+the quantitative data are:
+                       #1. numcol
+                       #2. yieldpercol  
+                       #3  totalprod    
+                       #4  stocks      
+                       #5  priceperlb   
+                       #6  prodvalue     
+                       #7  year     
+the quantitative data is state
+"number of colonies" is showing positive correlation with stocks, production value and total production,if number of colonies will increase they all will increase
+total production is showing direct relation with stocks
+price per lb is showing direct relation with year
+overall there is declining production trend
+# there are mixed trends of total production of honey over years
+it decreased from 1998 to 1999 and then incresed
+again decresed till 2002 ,then increased in 2003 and decresed in 2004 again incresed in 2005 and so on
+year 2010 has maximum honey production and minimum was in 2002
+# There is no BAR plot observed in between "totalprod" and "valueprod"
+# there is scatter plot between them.
+#there is a mixed trend between them
+# yeild per colony was maximum in 2002 followed by 2005 and 2001
+# yeild per colony was minimum in 2007 
+#yeild per colony is increasing from year 2010 to 2012
+the state with maximum total production is ND the state with minimum production is SC
+there is incresing production value over years when total production is declining
