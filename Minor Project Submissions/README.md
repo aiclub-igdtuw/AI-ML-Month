@@ -35,3 +35,28 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
+
+
+Colab Link- https://colab.research.google.com/drive/11o6C3Ig2aOV9wXAqhig7A_PLK0s3_kst?usp=sharing
+
+Final Summary:
+
+Most Undergoing Studies are in Phase 2 with only 2.77% studies in Phase 4
+
+Most studies are recruiting indicating a need of skilled individuals
+
+Hydroxychloroquine is most used Intervention
+
+Most Studies involve (Adult, Older Adult) Population with very few studies focussed on Children
+
+Most studies have 0-40k participants in the clinical trials
+
+Most Studies follow observational and interventional methodology
+
+Most Studies take place in USA (517) and France (349)
+
+Max Funding for these Clinical trials are done by
+
+'Industries'. Some studies are funded by NIH and US-FEDs
+
+Most Studies aim to be completed by 2020-2025
