@@ -2,7 +2,7 @@
 
 ## Problem Statements
 
-![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
+![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
 
 Covid-19 Dataset: https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinical-trials/data <br>
 
