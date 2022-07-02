@@ -12,8 +12,8 @@ SOLUTION (POINT1) --------> There are 3 methods by which we can replace null val
                      
 SOLUTION (POINT2)-----------> Have analysed some columns using graph and made graph for it and reason in colab notebook (explanation in text cell)
 
-SOLUTION (POINT6) ------> GENDER : most analysis done on females
-                          AGE : Most analysis is done on age group of 18 years and above.
+SOLUTION (POINT6) ------> 1.GENDER : most analysis done on females
+                          2.AGE : Most analysis is done on age group of 18 years and above.
                           Shown above two using graph and wrote abservation in google colab notebook as well(in text cell below that)
 
 
