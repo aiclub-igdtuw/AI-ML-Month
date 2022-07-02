@@ -4,8 +4,8 @@ colab link : https://colab.research.google.com/drive/14qU6QOoetosX4kLaLEcXrj9YtE
 PROBLEM STATEMENT : AS told in the problem statement i have cleaned the data for further data analysis 
 
 SOLUTION (POINT1) --------> There are 3 methods by which we can replace null values in a data :
-                     1. Dropping rows : data.dropna()
-                     2. Dropping columns: data.dropna()
+                     1. Dropping rows : using data.dropna()
+                     2. Dropping columns: using data.dropna()
                      3. Eliminating all null values with some random value : using data.fillna(value='')
                      
                      Here i have chosed 3rd method to elimate all the null values and fill it with others rather than to drop rows or columns because it may result                          into huge data loss (that may be present in that particular row or column) . Later on while analysing data we can simply ignore this none value .
