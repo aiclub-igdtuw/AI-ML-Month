@@ -85,5 +85,9 @@ https://www.youtube.com/watch?v=ok2s1vV9XW0&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn
 ## 👩‍💻 Week 5
 PROJECT SUBMISSIONS
 
+#MINI PROJECT :
 
+Collab link:https://colab.research.google.com/drive/1dcZ9IcL7WzuNfq_r5ptzLxXRTpQOYpP6?usp=sharing
 
+RESULT
+From the given dataset about loan default prediction , Various observations about the fine collected by the bank , no.of defaulyers and the fine they need to pay,etc was calculated.
