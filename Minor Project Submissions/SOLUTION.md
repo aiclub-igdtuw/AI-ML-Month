@@ -15,3 +15,9 @@ SOLUTION (POINT2)-----------> Have analysed some columns using graph and made gr
 SOLUTION (POINT6) ------> GENDER : most analysis done on females
                           AGE : Most analysis is done on age group of 18 years and above.
                           Shown above two using graph and wrote abservation in google colab notebook as well(in text cell below that)
+
+
+// pl click on the pencil button to exactly see in the format that i wrote 
+
+ANUSHA SINGH
+CSE
