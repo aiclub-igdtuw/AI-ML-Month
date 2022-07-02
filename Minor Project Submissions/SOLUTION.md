@@ -4,7 +4,7 @@ Colab Link - https://colab.research.google.com/drive/12MYXSk7ViFvcKOLYGfpIqDzs9w
 
 # **DATASET** **IMPORTING**
 * The data set was downloaded and uploaded on github within the repository.
-* The link was extracted by converting the dataset into a raw data using 
+* The link was extracted by converting the dataset into a raw data using https://raw.githubusercontent.com/mehakkumarmk/AI-ML-Month/main/Minor%20Project%20Submissions/country_wise_latest.csv
 
 
 # **NULL VALUE HANDLING**
