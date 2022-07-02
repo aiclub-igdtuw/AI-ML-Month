@@ -1,5 +1,12 @@
 # Mini project :
-
+Colab Link:https://colab.research.google.com/drive/1XiuLdWXEH6O3s1xcrxTM1DGBM98wEAcA?usp=sharing
+Result: This is a very useful product.The results we have found are:
+1.We find that there are 7837 people who will be given grace period of 15days
+2.maximum fine levied by bank=1993.968
+3.assuming all people in category of defaulters have not paid their EMI in grace period,total fine=1107701.5
+4.bar graph to visualise difference between bank balance of people who are eligible for grace period or not
+5.create a new column to study the differance between median and bank balance of the people who are eligible for grace period
+6.bar graph to visualise difference between annual income of people who are eligible for grace period or not. 
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
