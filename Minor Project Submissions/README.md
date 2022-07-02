@@ -13,13 +13,13 @@ Covid-19 Dataset: https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinic
 
 Ques : Mention all the method use to replace null value in a data? 
 
-There are several useful functions for detecting, removing, and replacing null values in Pandas DataFrame :
-    isnull()
-    notnull()
-    dropna()                                                
-    fillna()
-    replace()
-    interpolate()
+ There are several useful functions for detecting, removing, and replacing null values in Pandas DataFrame :
+    isnull(),
+    notnull(),
+    dropna(),                                                
+    fillna(),
+    replace(),
+    interpolate().
     
           *  we use a function isnull() and notnull(). Both functions help in checking whether a value is NaN or not.
 
@@ -51,13 +51,17 @@ Ques : What Conditions are these Studies treating?
 
 
 Ques : Where are these studies taking place?
+
   Observations:
+  
      * Most Studies take place in USA (517).
      * Next highest count is in France (349).
 
 
 Ques : What Age Bracket and Gender are these Studies considering?
+
   Observations:
+  
     *  Most Studies involve (Adult, Older Adult) Population.
     *  Only Child studies are very few.
     *  Most studies have taken data from All Genders.
