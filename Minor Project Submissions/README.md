@@ -35,3 +35,5 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
+
+COLLAB LINK - https://colab.research.google.com/drive/1L3Ze8Haaqu6wCBhrg8UomPU1C2WJsObr#scrollTo=Ygmh8-Be07Pw&uniqifier=1
