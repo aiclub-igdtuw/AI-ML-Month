@@ -9,7 +9,6 @@
 
 ![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
 
-![4](https://user-images.githubusercontent.com/77978729/175317316-54d099a4-5070-4420-a189-e40261624793.png)
 
 ## Datasets <br>
 Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
