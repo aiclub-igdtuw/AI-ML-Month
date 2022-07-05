@@ -2,7 +2,9 @@
 # (This can done in groups of 2 - 3 people)
 
 ## Problem Statements - 
-
+![](images/1.png)<br>
+![](images/2.png)<br>
+![](images/3.png)<br>
 
 
 ## Datasets <br>
