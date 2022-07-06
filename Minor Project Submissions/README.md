@@ -1,37 +1,33 @@
 # Mini project :
 
-## Problem Statements
+Covid 19 clinical trials
+link 
+https://colab.research.google.com/drive/1OucDfNW3JP2nnkmR0Etmdu44_siLedDV?usp=sharing 
 
-![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
+problem statements
+1: 
+There are different methods to replace null values in a data mention all of them and mention which one you chose and why? **bold text**
+Handlling missing values ways:
+1)dropping rows
+2)dropping columns
+3)estimate(approximate)-> Fill
+WHy:  HERE we are going to choose third option as we dont want to drop the datasets. so we are going to name nil values as "others"  to be able to analyze our data properly as told by sir in the session
 
-![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)<br>
+2.Analyse what age bracket and gender these studies are considering and use different graphs to show these write your observations
 
-![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
+OBSERVATION gender:in most studyies both male and female are allowed to participate but even if we compare female are slightely more demanded than males 99.22185716756009 percent times females are demanded 
+age: in most studyies 18 years and older age range is most popular with persentile of 49.88760159086979 and 2nd most popular one involves all age range with a persentile of 8.40394259035103
 
-## Datasets <br>
-Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
-Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
-Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
-Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
-Covid-19 Dataset: https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinical-trials/data <br>
+3.what conditions are the above studies treating ? Use visualisation to show this and write your observation observation: as we can observe from graph that most studies were being conducted on covid-19 and related diseases
 
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
+**4. show where the studies are taking place **.            
+Observation: most of the locations were not disclosed but out of the known locations 0.3285 percentile of the studies were conducted in Uhmontpellier, Montpellier, France which is the most popular of them all
 
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
+5.explore different columns in your data set and write your observations about the results.
+observation:1 we explored coloumns status of studies out of which 36.053951 percent are still recruting candidates that means these are still going on and about 17.724 percent are completed
+observation:2 most of the studies are funded by Assistance Publique - Hôpitaux de Paris
 
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
+calculations are done in the notebook*
 
-## SUBMIT BY 2nd JULY 6PM SHARP
+
+
