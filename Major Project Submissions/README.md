@@ -1,5 +1,5 @@
 # Major project : 
 
-## Problem Statement: Employee Attrition
+## Problem Statement: Detection of fake news
 
 
