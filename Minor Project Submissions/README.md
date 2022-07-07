@@ -1,6 +1,7 @@
 # Mini project :
 
-## Problem Statements
+## collab link: https://colab.research.google.com/drive/10q-rFyq1xMNT6dO3QBLZz_XEwI8Gh3Sm?authuser=3#scrollTo=_bYECWvI6Xdu
+
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
 
