@@ -1,5 +1,5 @@
 # SOLUTION
-Group project -Major project(Twitter Sentiment Analysis)
+Group Major project(Twitter Sentiment Analysis)
 
 1.Meet Nayan 
 
