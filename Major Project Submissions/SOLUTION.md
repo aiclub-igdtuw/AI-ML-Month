@@ -3,6 +3,20 @@
 
 Google Colab Link: https://colab.research.google.com/drive/1JhUYvZKWZa-et9cYzMfpg7KPu8iOR9s-?usp=sharing
 
+# Team Members : 
+
+## Name: Deepshikha
+
+Enrollment no. 05001022020
+
+Email id: deepshikha050btece20@igdtuw.ac.in
+
+## Name: Meghna Sharma
+
+Enrollment no. 05101022020
+
+Email id: meghna051btece20@igdtuw.ac.in
+
 ## We are taking three models of our choice which we see fit for our analysis which are:
 
 ### RANDOM FOREST CLASSIFIER
@@ -24,16 +38,3 @@ After Seeing the Classification model we can see that the accuracy of prediction
 So we came to conclusion that Random Forest Classifier is best model for prediction of diabetes.
 Detailed information can be found in google colab link .
 
-# Team Memebers : 
-
-## Name: Deepshikha
-
-Enrollment no. 05001022020
-
-Email id: deepshikha050btece20@igdtuw.ac.in
-
-## Name: Meghna Sharma 
-
-Enrollment no. 05101022020
-
-Email id: meghna051btece20@igdtuw.ac.in
