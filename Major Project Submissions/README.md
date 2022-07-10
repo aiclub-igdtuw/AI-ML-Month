@@ -1,4 +1,10 @@
 # Major project : 
+
+Twitter Sentiments Analysis
+
+Colab Link: https://colab.research.google.com/drive/1c5qbDLRInQ3T0QEJmqJxjChaOQylCjc9?usp=sharing
+
+
 # (This can done in groups of 2 - 3 people)
 
 ## Problem Statements - 
