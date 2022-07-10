@@ -35,3 +35,7 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
+
+Colab Link : https://colab.research.google.com/drive/1dRhDLdcDk23H7f9sXe7wWd0vSb5EBnMR?usp=sharing
+
+All the Calculations, Analysis and Conclusions are explained in separate text cells within the colab notebook.
