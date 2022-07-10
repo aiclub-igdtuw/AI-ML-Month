@@ -4,7 +4,7 @@ Collab link: https://colab.research.google.com/drive/1f4vcP70Cb3k5Wz61ey2I2NfnjL
 
 Team Details:
 
-Project name: Wine Quality Prediction
+Project: Wine Quality Prediction
 
 Team members: 
 1) Aarti Kushwaha CSE-2 
