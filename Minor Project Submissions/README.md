@@ -1,4 +1,21 @@
+#Major Project:
+
+Employee Attribute 
+
+Anushka Rajoria: 10201032020
+Payanshi Jain: 15801032020
+Uma Sharma: 11201032020
+
+Colab link:
+
+https://colab.research.google.com/drive/1ruyKDVxCPJZr8M1r15rUKgzioWKqkJDJ?usp=sharing
+
+
+
+
 # Mini project :
+
+Colab Link : https://colab.research.google.com/drive/18HXir2lTfBQAjvrwYHtCHYaLtdWfA7zv#scrollTo=AjUQMX4l2qFP
 
 ## Problem Statements
 
@@ -35,3 +52,5 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
+
+
