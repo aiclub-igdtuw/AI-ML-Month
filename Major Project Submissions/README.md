@@ -1,17 +1,16 @@
 # Major project : 
 colab link : https://colab.research.google.com/drive/1aURHglvcSLyLEanZO1e3pY0AkNpk3dwl#scrollTo=nvQx4wDfe8vY
 ## Problem Statements - 
-
-![1](https://user-images.githubusercontent.com/77978729/175317220-197c63a0-9f6f-4c20-93c5-be5c6da38c73.png)
-
-![2](https://user-images.githubusercontent.com/77978729/175317257-1d3e1f60-41ba-43fa-a27b-34cd3f4ef544.png)
-
-![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
-
+![1](https://user-images.githubusercontent.com/82227477/177264668-ce254b14-e8b7-49b7-82d7-3e307a011916.png)<br>
+![2](https://user-images.githubusercontent.com/82227477/177264800-aa8896e5-ead8-40c6-be94-f53d1ee56aca.png)<br>
+![3](https://user-images.githubusercontent.com/77978729/177378676-f6e85362-7201-4624-a7c5-3fc2d1ae0602.png)
+![4](https://user-images.githubusercontent.com/77978729/177378731-e05414e2-fc63-4685-8205-b17b6f7ef742.png)
+![5](https://user-images.githubusercontent.com/77978729/177378756-afa40739-45f5-4c41-9d8d-111312572fc5.png)
+![6](https://user-images.githubusercontent.com/77978729/177378792-ea048f47-3062-4e3d-bfba-ee382e315658.png)
+![7](https://user-images.githubusercontent.com/77978729/177378861-ffaeb5d2-42bd-40f2-b2cc-49f6ff3e30cc.png)
+![8](https://user-images.githubusercontent.com/77978729/177378887-090ee8f8-0d1d-469d-b6a9-3368fee2fad2.png)
 
 ## Datasets <br>
-Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
-Disease Burden Dataset: https://www.kaggle.com/datasets/shivkumarganesh/disease-burden-by-cause <br>
-Gender Development Dataset: https://www.kaggle.com/datasets/elmartini/gender-development-index-2019 <br>
-Campus Placement Dataset: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement <br>
-Employee Attrition Dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition <br>
+
+
+Wine Quality Prediction Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset <br>
