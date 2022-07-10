@@ -39,8 +39,9 @@ You can go through all the problem statements above and pick one to solve. After
 6) **Write all the answers in point form. Answers must be to the point.**
 
 ## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
+Follow these video for the submission. <br>
+1. https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
+2. https://drive.google.com/file/d/13ZgUH1u4GN8WIRlunkRLyoNmeq5r8ALf/view?usp=sharing
 
 ## Pull request naming format:
   #### Name_Dataset name <br>
