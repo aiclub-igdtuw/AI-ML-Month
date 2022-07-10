@@ -28,7 +28,7 @@ Follow this video for the submission. <br>
 https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
 
 ## Pull request naming format:
-  #### Name_Dataset name <br>
+   ### Name_Dataset name <br>
   For example: Manvi Kaur_Loan Default Prediction
   
 For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
