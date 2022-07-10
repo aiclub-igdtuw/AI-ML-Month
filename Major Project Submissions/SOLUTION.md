@@ -2,7 +2,7 @@
 Submitted By-
 Shradha Ranjan (07401012020) CSE1
 Saumya Samir (01701012020) CSE1
-Tanisha Singhal- (09001032020 ) IT2
+Tanisha Singhal- (09001032020) IT2
 
 TWITTER SENTIMENT ANALYSIS
 
