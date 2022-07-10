@@ -33,5 +33,3 @@ f1_score: 0.35211267605633806
 Training Accuracy_score: 1.0
 
 Testing Accuracy_score: 0.7913832199546486
-
-Footer
