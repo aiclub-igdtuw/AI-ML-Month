@@ -1,5 +1,7 @@
 # Major Project : Employee Attrition
 
+Team Members : Gargi Bhardwaj (12601172021), Shreya Gupta (10801172021) and Megha Arora (10501172021)
+
 Colab Link : https://colab.research.google.com/drive/1ZwQD4J1jsshgpxYAMLb1gJAwWeXgt4XS?usp=sharing
 
 RESULT : 
