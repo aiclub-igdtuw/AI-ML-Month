@@ -36,5 +36,5 @@ KNN is a supervised ML algorithm. You train your data on a labeled piece of data
 After Seeing the Classification model we can see that the accuracy of prediction of Random Forest Classifier is more than Decision Tree Classifier and KNN.
 
 So we came to conclusion that Random Forest Classifier is best model for prediction of diabetes.
-Detailed information can be found in google colab link .
+Detailed information can be found in google colab link that is given above .
 
