@@ -1,8 +1,6 @@
 # SOLUTION
 
-# By Indu and Ishita Saxena 
-
-# Indu (15301012020) Ishita Saxena (19001012020)
+# By Indu (15301012020) Ishita Saxena (19001012020)
 
 # Project Name : Twitter Sentiment Analysis
 
