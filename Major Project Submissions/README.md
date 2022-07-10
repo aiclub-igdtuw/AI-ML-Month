@@ -1,5 +1,5 @@
 # Major project : EMPLOYEE ATTRITION
-colab link: https://colab.research.google.com/drive/1GMu1KO0LdCPH6XgMLWHkvmbmqtUFHMbD#scrollTo=QN7cVMxXx4Ol
+colab link: https://colab.research.google.com/drive/1GMu1KO0LdCPH6XgMLWHkvmbmqtUFHMbD#scrollTo=aUTflEd1wD94
 
 # (This can done in groups of 2 - 3 people)
 
