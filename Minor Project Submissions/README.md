@@ -1,4 +1,12 @@
-# Mini project :
+# Minor project : google colab link:  https://colab.research.google.com/drive/1CVMqHNY9C5c5kFrTsTlMkDGQALRfAQ_L?usp=sharing
+Major Project (Previous Problem Statements) : google colab link : https://colab.research.google.com/drive/1kcAcfzrz9X_bvtQyJOJloexcU5-k4JoH?usp=sharing
+Major Project (New Problem Statements) : google colab link : https://colab.research.google.com/drive/1ytfeV1CgNkT4pjOn7k2kiVAtrjlbyEtK?usp=sharing
+
+TEAM MEMBER'S DETAILS :
+SUBMITTED BY : 1) RAKSHITA CHAND (00201182021)
+               2) ARCHEE SINGH (01201182021) 
+
+
 
 ## Problem Statements
 
