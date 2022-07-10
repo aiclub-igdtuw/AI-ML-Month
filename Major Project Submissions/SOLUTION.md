@@ -26,7 +26,7 @@ Detailed information can be found in google colab link .
 
 # Team Memebers : 
 
-## Name: DEEPSHIKHA 
+## Name: Deepshikha
 
 Enrollment no. 05001022020
 
