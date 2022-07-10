@@ -11,10 +11,8 @@ Colab Link: https://colab.research.google.com/drive/1wRYfumk112pVbdZVJCyFcPEzbw5
 ![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
 
 ![4](https://user-images.githubusercontent.com/77978729/175317316-54d099a4-5070-4420-a189-e40261624793.png)
-The accuracy of our mode is 84.78%.
 
 ## Datasets <br>
-NAME: Tanu Vats - 13601032020, Arunima Sarkar - 09501032020
 Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
 Disease Burden Dataset: https://www.kaggle.com/datasets/shivkumarganesh/disease-burden-by-cause <br>
 Gender Development Dataset: https://www.kaggle.com/datasets/elmartini/gender-development-index-2019 <br>
