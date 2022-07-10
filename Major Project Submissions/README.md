@@ -1,5 +1,7 @@
 # Major project : 
-# (This can done in groups of 2 - 3 people)
+# Collab Link : https://colab.research.google.com/drive/1TxYX54s_8r4HpiTjT1iVP4bA469Sg4Xy?usp=sharing
+# submitted by Kajal And Kumari Sudha
+
 
 ## Problem Statements - 
 ![1](https://user-images.githubusercontent.com/82227477/177264668-ce254b14-e8b7-49b7-82d7-3e307a011916.png)<br>
