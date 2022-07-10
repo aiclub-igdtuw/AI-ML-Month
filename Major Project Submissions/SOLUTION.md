@@ -1,1 +1,4 @@
 # SOLUTION
+MAJOR PROJECT 
+SUKHVINDER KAUR ,RASHDEEP KAUR ,KHUSHI TEZA
+COLLAB LINK : https://colab.research.google.com/drive/1OzRB2GuEI5W0C2a_oP9LMcjbgcpql2DZ?usp=sharing
