@@ -3,13 +3,10 @@ BY- ARSHIA SINGHAL(07301182021) AND RUCHIRA KUMAR(05501182021)
 
 Google colab link: https://colab.research.google.com/drive/1nbDqZTBR82BxXJSEbusPrYpA_gkhcoLq?usp=sharing
 
-
 FACTORS AFFECTING CAMPUS PLACEMENT
-
 This data set consists of placement data of students in the campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students.
 
 We will perform exploratory data analysis with python to get insight from the data and determine which factors affect the most in bagging a job by performing feature engineering on the dataset.
-
 
 TOOLS AND LIBRARIES USED
 
@@ -20,7 +17,6 @@ We have used the following python packages to perform the visualization and mode
 3.Seaborn
 4.Sklearn
 5.Numpy
-
 
 FILES
 
