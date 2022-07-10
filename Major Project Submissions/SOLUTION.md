@@ -1,7 +1,7 @@
 # SOLUTION
 # Diabetes Prediction Dataset:
 
-Google Collab Link: https://colab.research.google.com/drive/1JhUYvZKWZa-et9cYzMfpg7KPu8iOR9s-?usp=sharing
+Google Colab Link: https://colab.research.google.com/drive/1JhUYvZKWZa-et9cYzMfpg7KPu8iOR9s-?usp=sharing
 
 ## We are taking three models of our choice which we see fit for our analysis which are:
 
@@ -21,9 +21,10 @@ KNN is a supervised ML algorithm. You train your data on a labeled piece of data
 
 After Seeing the Classification model we can see that the accuracy of prediction of Random Forest Classifier is more than Decision Tree Classifier and KNN.
 
-So we came to conclusion that Random Forest Classifier is best model for prediction of diabetes
+So we came to conclusion that Random Forest Classifier is best model for prediction of diabetes.
+Detailed information can be found in google colab link .
 
-#### Team Memebers : 
+# Team Memebers : 
 
 ## Name: DEEPSHIKHA 
 Enrollment no. 05001022020
