@@ -8,6 +8,6 @@ Name: Tanisha Singh
 Enrollment No.: 10801032020
 
 
-Name:Nidhi Modwel
+Name: Nidhi Modwel
 
 Enrollment No.: 08701032020
