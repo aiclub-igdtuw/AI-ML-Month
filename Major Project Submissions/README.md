@@ -23,3 +23,4 @@ Through the graph between accuracy and f1-score, it is observed that
 
 We have chosen logistic regression model as the most accurate because it gives the best analysis of employee attrition.
 This result may be used by organisation to understand the modifications they should do to make their workers stay.
+.
