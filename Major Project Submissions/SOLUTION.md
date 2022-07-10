@@ -1,5 +1,11 @@
 # SOLUTION
 
+Project submission done by:
+RASHI JAIN O2801182021
+ARUSHI SINHA 04701182021
+RIZA ATIK 06101182021
+
+
 colab link: https://colab.research.google.com/drive/13Jn-ZlDEUP8iaBUSjWvM8zwTnR7nY5xL?usp=sharing
 
 Question-3 Accuracy F1 Scores And Graphs
