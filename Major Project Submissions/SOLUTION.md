@@ -9,7 +9,7 @@ TWITTER SENTIMENT ANALYSIS
 Problem Statement- 
 Sentiment analysis refers to identifying as well as classifying the sentiments that are expressed in the text source. Tweets are often helpful in generating a vast amount of sentiment data upon analysis. These data are helpful in understanding the opinion of the people about a variety of topics.
 
-DATASET used in the project - [https://www.kaggle.com/datasets/kazanova/sentiment140
+DATASET used in the project - https://www.kaggle.com/datasets/kazanova/sentiment140
 
 Collab Link- https://colab.research.google.com/drive/1Y52ADliG3pjHJUgGPBuhcIGYDgTvJW8e?usp=sharing
 
