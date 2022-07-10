@@ -1,40 +1,29 @@
 # Major project : 
-# (This can done in groups of 2 - 3 people)
+TOPIC: FAKE NEWS DETECTION
+Submitted By:
+GEETIKA GUPTA ECE-AI 1 (00101182021)
+SHUBHANGI TYAGI ECE-AI 1 (01301182021)
 
-## Problem Statements - 
+Google Colab Link: https://colab.research.google.com/drive/1Nk_q3EU3jtyK3pvFXow5qR9CUy_zxwm9?usp=sharing
 
-![1](https://user-images.githubusercontent.com/77978729/175317220-197c63a0-9f6f-4c20-93c5-be5c6da38c73.png)
 
-![2](https://user-images.githubusercontent.com/77978729/175317257-1d3e1f60-41ba-43fa-a27b-34cd3f4ef544.png)
+Dataset used: https://www.kaggle.com/datasets/ruchi798/source-based-news-classification
 
-![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
 
-![4](https://user-images.githubusercontent.com/77978729/175317316-54d099a4-5070-4420-a189-e40261624793.png)
+#Results:
+Q1.Necessary Analysis on dataset were performed and following models were used for prediction of Fake News:
+    1)Random Forest
+    2)Decision Tree
+    3)Support Vector Machine (SVM)
+Q2.Confusion Matrix was plotted for all the models and observations were recorded.
+Q3.Accuracy and F1-score are obtained through the observations of Confusion Matrix.
+Decision Tree is chosen as the most suitable model for predictions.
+Q4.Decision Tree chosen over other models because:
+1. Decision Tree model gave the most Accurate results with an accuracy of 98.8%.
+2. Decision trees are one of the best forms of learning algorithms based on various learning methods.
+3. They boost predictive models with accuracy, ease in interpretation, and stability.
+4. The tools are also effective in fitting non-linear relationships since they can solve data-fitting challenges, such as regression and classifications.
+5. Decision Trees are easy to read and interpret, easy to prepare and requires less data cleaning.
+Q5.Accuracy observed from the examples.
 
-## Datasets <br>
-Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
-Disease Burden Dataset: https://www.kaggle.com/datasets/shivkumarganesh/disease-burden-by-cause <br>
-Gender Development Dataset: https://www.kaggle.com/datasets/elmartini/gender-development-index-2019 <br>
-Campus Placement Dataset: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement <br>
-Employee Attrition Dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition <br>
 
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
-
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
-
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
-
-## SUBMIT BY 7th JULY 12PM SHARP
