@@ -1,4 +1,4 @@
-# Major project : 
+# Major project : GUNJAN & CHEENAKSHI
 
 ## Problem Statement: Employee attrition
 
