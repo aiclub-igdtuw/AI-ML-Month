@@ -33,5 +33,7 @@ https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=shari
   
 For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
 ALL THE BEST!!
+Google collab link
+https://colab.research.google.com/drive/1j7i8AOono8Twk3f6SWn-FgusKUcWC-h9?usp=sharing
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
