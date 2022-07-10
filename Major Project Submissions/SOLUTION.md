@@ -13,10 +13,10 @@ Minor Prjoect Colab link: https://colab.research.google.com/drive/13Cg66i61-dqwD
 #MAJOR
 TEAM MEMBERS: ARPITA JAIN  Enrollment No: 02601172021 Branch: CSE AI 
               KONIKA       Enrollment No: 02801172021 Branch: CSE AI
-              PRACHI SUMAN Enrollment No: 05101042021 Branch: MCE
+              PRACHI SUMAN Enrollment No: 05101042021 Branch: MAE
 
 
 
 Major Project Problem Statement : EMPLOYEE ATTRITION
 
-Minor Prjoect Colab link: https://colab.research.google.com/drive/1yjoNRHNeEMCjk9dU0cn9fwc_W5eb7Ooo?usp=sharing
+Major Prjoect Colab link: https://colab.research.google.com/drive/1yjoNRHNeEMCjk9dU0cn9fwc_W5eb7Ooo?usp=sharing
