@@ -1,4 +1,6 @@
-# Major project : 
+# Major project : EMPLOYEE ATTRITION
+colab link: https://colab.research.google.com/drive/1GMu1KO0LdCPH6XgMLWHkvmbmqtUFHMbD#scrollTo=QN7cVMxXx4Ol
+
 # (This can done in groups of 2 - 3 people)
 
 ## Problem Statements - 
@@ -30,7 +32,7 @@ You can go through all the problem statements above and pick one to solve. After
 Follow this video for the submission. <br>
 https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
 
-## Pull request naming format:
+## Pull request naming format:ESHA_EMPLOYEE ATTRITION
   #### Name_Dataset name <br>
   For example: Manvi Kaur_Loan Default Prediction
   
