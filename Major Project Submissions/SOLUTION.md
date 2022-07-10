@@ -1,4 +1,4 @@
-# Minor Project
+# Major Project
 
 **Fake News Classification**
 
