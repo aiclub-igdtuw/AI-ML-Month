@@ -1,5 +1,7 @@
 # SOLUTION
 
+discord username- Falcon#0782
+
 Google colab file - https://colab.research.google.com/drive/1-kKyTGbsRB_XjDp7gY2k4xD2kwaHUIhJ?usp=sharing
 
 Observations
