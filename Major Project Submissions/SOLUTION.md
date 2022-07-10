@@ -1,2 +1,2 @@
 # SOLUTION
-MAJOR PROBLEM STATEMENT: Detection of fake news
+MAJOR PROBLEM STATEMENT: Employee attrition
