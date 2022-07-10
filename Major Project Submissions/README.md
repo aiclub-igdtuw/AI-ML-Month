@@ -1,5 +1,7 @@
 # Major project : 
 # (This can done in groups of 2 - 3 people)
+MAJOR PROJECT:
+COLAB LINK: https://colab.research.google.com/drive/1198nC4JVl5n9dhmYpmZiEoXPGEZ7NjVx?usp=sharing
 
 ## Problem Statements - 
 
