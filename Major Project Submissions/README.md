@@ -50,3 +50,6 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 10th JULY 11:59PM SHARP
+Project : Breast Cancer Predictions 
+Models : SVM ,logistic regression , KNN 
+Best Model : KNN(precision : 0.955 , recall : 0.9333 , accuracy : 0.930 , f1 score : 0.94) 
