@@ -38,3 +38,7 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 7th JULY 12PM SHARP
+
+
+collab link-https://colab.research.google.com/drive/1bPiMZLr6YAC0sC29Mc5IaXGxXx8C3Ifz?usp=sharing
+accuracy,f1-score,predictionsusing RF,Decision Tree and logistics model
