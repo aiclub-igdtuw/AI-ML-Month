@@ -4,6 +4,11 @@ Colab Link: https://colab.research.google.com/drive/1QhV01IkcHLHa2rczNcI8LtZsJCQ
 
 Major Project - **Employee Attrition**
 
+Team members-
+- Vanshita Mittal 02001172020
+- Mansi Singla 06601012020
+- Ambika Gupta 00301172021
+
 Models selected :-
 - Logistic Regression
 - Decision Tree Classifier
