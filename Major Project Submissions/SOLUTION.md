@@ -1,4 +1,11 @@
 # SOLUTION
+Topic- Honey Production
+Submitted by- Shradha Ranjan
+Minor Project- https://colab.research.google.com/drive/1qrn9CqbFGFkzIdNzEaOWa49YSTOP_83i?usp=sharing
+ 
+ *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Major Project-
+ 
 Submitted By-
 Shradha Ranjan (07401012020) CSE1
 Saumya Samir (01701012020) CSE1
