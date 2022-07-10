@@ -3,7 +3,7 @@
  The Accuracy of our model is 88.85%
  
  Name : Pooja Kumari
- Enrollment  :04004092021
+ Enrollment  : 04004092021
  
  Name : Varsha Ahirwar
  Enrollment : 08901032020
