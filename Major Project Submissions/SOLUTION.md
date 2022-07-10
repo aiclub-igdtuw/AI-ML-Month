@@ -1,5 +1,5 @@
 # SOLUTION
 
-Sample PR
-
-Colab Link: https://meet.google.com/qhb-kmac-wmz
+Problem Statement- Honey Production
+Submitted by- Jhanvee Khola
+Minor Project- https://colab.research.google.com/drive/1qrn9CqbFGFkzIdNzEaOWa49YSTOP_83i?usp=sharing
