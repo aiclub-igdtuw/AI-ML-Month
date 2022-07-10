@@ -1,40 +1,37 @@
 # Major project : 
 # (This can done in groups of 2 - 3 people)
+team members- Anamika
+            - shradha 
 
 ## Problem Statements - 
+Employee attriton
 
-![1](https://user-images.githubusercontent.com/77978729/175317220-197c63a0-9f6f-4c20-93c5-be5c6da38c73.png)
+link to colab notebook
+https://colab.research.google.com/drive/14hSjfOxLAlfLt02-c_GkzeT258x7hq0D?usp=sharing
 
-![2](https://user-images.githubusercontent.com/77978729/175317257-1d3e1f60-41ba-43fa-a27b-34cd3f4ef544.png)
+1) we performed the analysis of dataset and plotted various graphs
+a. Attrition is most for people who have been less than 7 yrs with current manager
+b. Attrition is most for people in researh and development department and then sales department
+c. Attrition is most for males
+d. Attrition is most for people who have been in current role for 4 years or 7 to 9 yrs
+e. Attrition is most for people
 
-![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
+2) we have chosen 3 models
+a. Logistic regression
+b. Random forest
+c. KNN model
 
-![4](https://user-images.githubusercontent.com/77978729/175317316-54d099a4-5070-4420-a189-e40261624793.png)
+3) we plotted the confusion for testing and training dataset for all models
 
-## Datasets <br>
-Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
-Disease Burden Dataset: https://www.kaggle.com/datasets/shivkumarganesh/disease-burden-by-cause <br>
-Gender Development Dataset: https://www.kaggle.com/datasets/elmartini/gender-development-index-2019 <br>
-Campus Placement Dataset: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement <br>
-Employee Attrition Dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition <br>
+4) we plotted the accuracy and F1 score graph for all models 
+a. we found that best accuracy was for Logistic Regression
+b. the best f1 score was also for logistic regression
 
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
+5) And by analyzing all the mathmatical computations we found that Logistic regression was the best model out of the three because of all the best statistatical results out of the three models
 
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
-
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
-
-## SUBMIT BY 7th JULY 12PM SHARP
+6) we chose 1 st three entries of dataset and predicted the result of attrition 
+   all the three examples had been redicted correctly
+   
+   
+   
+   
