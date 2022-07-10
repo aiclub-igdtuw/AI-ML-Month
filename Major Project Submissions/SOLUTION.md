@@ -1,1 +1,13 @@
 # SOLUTION
+MAJOR PROJECT
+EMPLOYEE ATTRITION DATASET
+
+Contributors:
+
+KASHISH VERMA (07501182021) ; ECE-AI1
+
+MRIDULA KUMAR (00901172021) ; CS-AI1
+
+SAKSHI (01801012021) ; CSE-1
+colab link:
+https://colab.research.google.com/drive/1sSIiFCnsbThLegWVAwIFEJzWz6GaFXsD?usp=sharing
