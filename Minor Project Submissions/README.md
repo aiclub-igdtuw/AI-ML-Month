@@ -7,3 +7,8 @@ goggle colab link:https://colab.research.google.com/drive/18fjVIbPCLfAQP8K8wwBTk
 
 ## Datasets <br>
 Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
+
+
+#MAJOR PROJECT 
+## CAMPUS PLACEMENT 
+GOGGLE COLLAB:-https://colab.research.google.com/drive/1J-U8NVDp_hz8KEwW1M8ngToki-cgzOux?usp=sharing
