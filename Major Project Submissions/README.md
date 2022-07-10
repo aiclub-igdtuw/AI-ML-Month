@@ -1,6 +1,7 @@
 # Major project : 
 
 ## Problem Statements - Employee attrition
+# Group: Cheenakshi(01404092021) and Gunjan(02104092021)
 
 Collab Link: https://colab.research.google.com/drive/1Rb9pAktsnCIbm3Stl4-PsdJ3rwW4FDq3#scrollTo=wnPJ0p2vEwmw
 
