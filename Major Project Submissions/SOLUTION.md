@@ -23,7 +23,7 @@ After Seeing the Classification model we can see that the accuracy of prediction
 
 So we came to conclusion that Random Forest Classifier is best model for prediction of diabetes
 
-### Team Memebers : 
+#### Team Memebers : 
 
 ## Name: DEEPSHIKHA 
 Enrollment no. 05001022020
