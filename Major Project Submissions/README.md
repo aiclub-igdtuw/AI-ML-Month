@@ -1,40 +1,27 @@
-# Major project : 
-# (This can done in groups of 2 - 3 people)
-
-## Problem Statements - 
-
-![1](https://user-images.githubusercontent.com/77978729/175317220-197c63a0-9f6f-4c20-93c5-be5c6da38c73.png)
-
-![2](https://user-images.githubusercontent.com/77978729/175317257-1d3e1f60-41ba-43fa-a27b-34cd3f4ef544.png)
-
-![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
-
-![4](https://user-images.githubusercontent.com/77978729/175317316-54d099a4-5070-4420-a189-e40261624793.png)
-
-## Datasets <br>
-Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
-Disease Burden Dataset: https://www.kaggle.com/datasets/shivkumarganesh/disease-burden-by-cause <br>
-Gender Development Dataset: https://www.kaggle.com/datasets/elmartini/gender-development-index-2019 <br>
-Campus Placement Dataset: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement <br>
-Employee Attrition Dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition <br>
-
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
-
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
-
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
-
-## SUBMIT BY 7th JULY 12PM SHARP
+jupiter link: http://localhost:8888/notebooks/Gargi_Bhardwaj_EMPLOYEE_ATTRITION.ipynb#
+name: Gargi Bhardwaj
+Major Project 
+topic : EMPLOYEE ATTRITION
+MODELS USED with Accuracy:
+[Logistic Regression] training data accuracy is : 0.876596
+[Logistic Regression] test data accuracy is : 0.880952
+[Decision Tree] training data accuracy is : 1.000000
+[Decision Tree] test data accuracy is : 0.799320
+[KNN] training data accuracy is : 0.880851
+[KNN] test data accuracy is : 0.802721
+[SVM] training data accuracy is : 0.859574
+[SVM] test data accuracy is : 0.829932
+[Random Forest] training data accuracy is : 1.000000
+[Random Forest] test data accuracy is : 0.860544
+[Naive Bayes] training data accuracy is : 0.787234
+[Naive Bayes] test data accuracy is : 0.727891
+Model Scores:
+{'Logistic Regression': 0.8809523809523809,
+ 'KNN classifier': 0.8027210884353742,
+ 'Support Vector Machine': 0.8299319727891157,
+ 'Random forest': 0.8605442176870748,
+ 'Decision tree': 0.7993197278911565,
+ 'Naive Bayes': 0.7278911564625851}
+According to graph best model is Logistic Regression
+WHY LOGISTIC REGRESSION ?
+since we can see from the graph the F1 score for "yes" is 33% for random forest and 48% for logistic regression and Accuracy for random forest is 86.05% and for logistic regression is 88% but recall of both is 99% so best model is Logistic regression .
