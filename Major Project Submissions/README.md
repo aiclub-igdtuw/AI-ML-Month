@@ -4,7 +4,7 @@
 
 Collab Link: https://colab.research.google.com/drive/1Rb9pAktsnCIbm3Stl4-PsdJ3rwW4FDq3#scrollTo=wnPJ0p2vEwmw
 
-RandomForest Classifier:
+**RandomForest Classifier:**
 
 model score : 0.9815354713313897
 
@@ -14,7 +14,7 @@ Training Accuracy_score: 0.9815354713313897
 
 Testing Accuracy_score: 0.8526077097505669
 
-Logistic Regression
+**Logistic Regression**
 
 model score : 0.8901846452866861
 
@@ -24,7 +24,7 @@ Training Accuracy_score: 0.8901846452866861
 
 Testing Accuracy_score: 0.891156462585034
 
-DecisionTree Classifier
+**DecisionTree Classifier**
 
 model score : 1.0
 
