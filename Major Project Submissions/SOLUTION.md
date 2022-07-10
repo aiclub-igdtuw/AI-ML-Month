@@ -1,6 +1,7 @@
 # Major Project
 
 **Fake News Classification**
+Ishita Jain and Mansi Soni
 
 *Dataset* : https://www.kaggle.com/datasets/ruchi798/source-based-news-classification?datasetId=747224&searchQuery=f1
 
