@@ -7,6 +7,6 @@
 # SOLUTION
 Drive Link for Solution: https://drive.google.com/drive/folders/1HizkRnn6C5ikrqoNsixEGHqg8NSF_c2e?usp=sharing
 Contains three files:
-MainSolution.ipynb
-dictionaries.py
-evaluating.py
+* MainSolution.ipynb
+* dictionaries.py
+* evaluating.py
