@@ -4,8 +4,16 @@ Google Collab Link: https://colab.research.google.com/drive/1JhUYvZKWZa-et9cYzMf
 
 ##We are taking three models of our choice which we see fit for our analysis which are:
 
--RANDOM FOREST CLASSIFIER
+-###RANDOM FOREST CLASSIFIER
+A random forest (RF) classifier is an ensemble classifier that produces multiple decision trees, using a randomly selected subset of training samples and variables.
 
--DECISION TREE CLASSIFIER
+-###DECISION TREE CLASSIFIER
+Decision tree classifiers are supervised machine learning models. This means that they use prelabelled data in order to train an algorithm that can be used to make a prediction. Decision trees can also be used for regression problems.
 
--KNN
+-###KNN
+KNN is a supervised ML algorithm. You train your data on a labeled piece of data and ask it to predict the label for an unlabeled point in supervised learning.
+
+## We have chosen the Random Forest Classifier model
+After Seeing the Classification model we can see that the accuracy of prediction of Random Forest Classifier is more than Decision Tree Classifier and KNN.
+
+So we came to conclusion that Random Forest Classifier is best model for prediction of diabetes
