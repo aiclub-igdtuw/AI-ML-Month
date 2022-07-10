@@ -38,3 +38,6 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 7th JULY 12PM SHARP
+![image](https://user-images.githubusercontent.com/106903999/178157393-0c0a24e3-57fe-44f9-88c4-c15bcaada47f.png)
+colab
+https://colab.research.google.com/drive/1Bjw1aC1P-tNOShh0TxQcqP6lAwMm7qP5?usp=sharing
