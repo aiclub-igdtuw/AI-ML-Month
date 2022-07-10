@@ -1,40 +1,45 @@
-# Major project : 
-# (This can done in groups of 2 - 3 people)
+MAJOR PROJECT- FACTORS AFFECTING CAMPUS PLACEMENT 
+BY- ARSHIA SINGHAL(07301182021) AND RUCHIRA KUMAR(05501182021)
 
-## Problem Statements - 
+Google colab link: https://colab.research.google.com/drive/1nbDqZTBR82BxXJSEbusPrYpA_gkhcoLq?usp=sharing
 
-![1](https://user-images.githubusercontent.com/77978729/175317220-197c63a0-9f6f-4c20-93c5-be5c6da38c73.png)
 
-![2](https://user-images.githubusercontent.com/77978729/175317257-1d3e1f60-41ba-43fa-a27b-34cd3f4ef544.png)
+FACTORS AFFECTING CAMPUS PLACEMENT
 
-![3](https://user-images.githubusercontent.com/77978729/175317286-47f07889-9f68-4a5c-8a63-7a6443b54454.png)
+This data set consists of placement data of students in the campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students.
 
-![4](https://user-images.githubusercontent.com/77978729/175317316-54d099a4-5070-4420-a189-e40261624793.png)
+We will perform exploratory data analysis with python to get insight from the data and determine which factors affect the most in bagging a job by performing feature engineering on the dataset.
 
-## Datasets <br>
-Twitter Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 <br>
-Disease Burden Dataset: https://www.kaggle.com/datasets/shivkumarganesh/disease-burden-by-cause <br>
-Gender Development Dataset: https://www.kaggle.com/datasets/elmartini/gender-development-index-2019 <br>
-Campus Placement Dataset: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement <br>
-Employee Attrition Dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition <br>
 
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
+TOOLS AND LIBRARIES USED
 
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
+We have used the following python packages to perform the visualization and model creation
 
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
+1.Pandas
+2.Matplotlib
+3.Seaborn
+4.Sklearn
+5.Numpy
 
-## SUBMIT BY 7th JULY 12PM SHARP
+
+FILES
+
+The repository contains two files other than the readme file Placement Factor Analysis.ipynb: Jupyter Notebook file contains all the python code, documentation and visualization Placement_Data_Full_Class.csv: Our dataset file
+
+Dataset contains the following features:
+
+1. sl_no
+2. gender
+3. ssc_p
+4. ssc_b
+5. hsc_p
+6. hsc_b
+7. hsc_s
+8. degree_p
+9. degree_t
+10. workex
+11. etest_p
+12. specialisation
+13. mba_p
+14. status
+15. salary
