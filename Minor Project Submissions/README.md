@@ -1,5 +1,17 @@
 # Mini project :
 
+COLAB LINK: https://colab.research.google.com/drive/19Nv-XGWXichPdpJj6mN88CLs7Fd2Syc2?usp=sharing
+OBSERVATIONS:
+1.The standard class ship mode has highest sales, whereas the same day ship mode has least sales.
+2.Segment wise sales and profit are higher for consumer segment.
+3.Sub - Category wise highest quantity is of binders and lowest of tables
+4.The sub-category machines has highest sales wheras the sub-category Copiers has highest profit.
+5.The sub-category tables has lowest profit and sub-category fasteners has lowest sales.
+6.The category technology has highest sales.
+7.The sales through standard ship mode is the highest. Home office segment has highest sales.
+
+
+
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
