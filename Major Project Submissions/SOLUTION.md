@@ -27,8 +27,13 @@ Detailed information can be found in google colab link .
 # Team Memebers : 
 
 ## Name: DEEPSHIKHA 
+
 Enrollment no. 05001022020
+
 Email id: deepshikha050btece20@igdtuw.ac.in
+
 ## Name: Meghna Sharma 
+
 Enrollment no. 05101022020
+
 Email id: meghna051btece20@igdtuw.ac.in
