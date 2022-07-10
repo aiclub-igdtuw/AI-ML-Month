@@ -1,6 +1,18 @@
 # Major project : 
 # (This can done in groups of 2 - 3 people)
 
+MAJOR PROJECT- EMPLOYEE ATTRITION
+Team Members-  Sona Varshney (05101032021), Vanshita(00701032021), Nikita Garg(05301032021)
+
+COLAB LINK - https://colab.research.google.com/drive/1IcDSlb7Z-LyZiRkt1DikyAA3GX4UAMjR?usp=sharing
+BONUS PROJECT COLAB LINK -https://colab.research.google.com/drive/1WF1bGij9OKEhsXwpcV1zNrBGzuQEGA9G?usp=sharing
+
+Result-
+1)Using various ML models, we can predict the rate and cause of employee attrition in a company which in turn benefits the company in its smooth functioning.
+2)By this analysis, a company can look into its shortcomings which may have been a cause of employee attrition.
+3)The company can get a fair idea of the vacancies in the company, assisting them devise better recruitment plans.
+
+
 ## Problem Statements - 
 
 ![1](https://user-images.githubusercontent.com/77978729/175317220-197c63a0-9f6f-4c20-93c5-be5c6da38c73.png)
