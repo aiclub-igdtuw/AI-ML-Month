@@ -41,4 +41,5 @@ ALL THE BEST!!
 
 
 collab link-https://colab.research.google.com/drive/1bPiMZLr6YAC0sC29Mc5IaXGxXx8C3Ifz?usp=sharing
-accuracy,f1-score,predictionsusing RF,Decision Tree and logistics models
+accuracy,f1-score,predictions using RF,Decision Tree and logistics models
+
