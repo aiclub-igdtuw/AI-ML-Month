@@ -1,4 +1,5 @@
-# Mini project :
+# Mini project : Loan Default Prediction
+Google Colab Link: https://colab.research.google.com/drive/1l1d_AZdHZ5ujM7VGQXF-5pmt4DELtWfG#scrollTo=AjUQMX4l2qFP
 
 ## Problem Statements
 
