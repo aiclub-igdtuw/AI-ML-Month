@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=WFvY3qgtMqM
 - Basics of Python <br />
 https://www.youtube.com/watch?v=7eh4d6sabA0 
 
-
+https://colab.research.google.com/drive/18USjmaxH56NiP5YGHGGf5mTtRFubn-Tf?usp=sharing
 ## 👩‍💻 Week 2
 
 - Exploratory Data Analysis (EDA) <br />
