@@ -5,5 +5,7 @@ Google Collab Link: https://colab.research.google.com/drive/1JhUYvZKWZa-et9cYzMf
 ##We are taking three models of our choice which we see fit for our analysis which are:
 
 -RANDOM FOREST CLASSIFIER
+
 -DECISION TREE CLASSIFIER
+
 -KNN
