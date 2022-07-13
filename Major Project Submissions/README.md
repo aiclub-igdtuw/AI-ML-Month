@@ -51,6 +51,3 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 10th JULY 11:59PM SHARP
-
-
-
