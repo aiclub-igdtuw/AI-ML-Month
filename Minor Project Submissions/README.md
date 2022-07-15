@@ -1,37 +1,27 @@
 # Mini project :
 
-## Problem Statements
+GOOGLE COLAB LINK: https://colab.research.google.com/drive/1aHjAcnPWfByYKKcelh7qxbD9uOvr4PPz?usp=sharing 
 
-![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
+1.We replace the null values if the number of null values is not very large. The mean of the numerical column data is used to replace null values when the data is normally distributed. Median is used if the data comprised of outliers. Mode is used when the data having more occurences of a particular value or more frequent value. But when the number of null values is very large then we delete the column. The same thing I have done while solving the problem.
 
-![Minor Project Problem Statements(1)-2](https://user-images.githubusercontent.com/77978729/174480492-317c51ac-acca-4939-be56-37bd02ab83a5.png)<br>
+2.Bar charts are good for comparisons, while line charts work better for trends. Scatter plot charts are good for relationships and distributions, but pie charts should be used only for simple compositions.
 
-![Minor Project Problem Statements(1)-3](https://user-images.githubusercontent.com/77978729/174480497-998bed01-91eb-4d20-8c42-a21e42bfcd1f.png)<br>
+Conclusions drawn:
 
-## Datasets <br>
-Loan Default Prediction Dataset: https://www.kaggle.com/datasets/kmldas/loan-default-prediction <br>
-Stock Price Ananlysis Dataset: https://www.kaggle.com/datasets/daiearth22/uniqlo-fastretailing-stock-price-prediction <br>
-Honey Production Dataset: https://www.kaggle.com/datasets/jessicali9530/honey-production <br>
-Superstore Dataset: https://www.kaggle.com/datasets/jr2ngb/superstore-data <br>
-Covid-19 Dataset: https://www.kaggle.com/code/parulpandey/eda-on-covid-19-clinical-trials/data <br>
+Most Undergoing Studies are in Phase 2 with only 2.77% studies in Phase 4
 
-You can go through all the problem statements above and pick one to solve. After that follow these steps -
-1) Create a jupyter notebook or a colab notebook.
-2) Show all the calculations required and print them.
-3) The final calculation for the answer must be in a separate cell.
-4) Create a text cell to give explanations wherever you think is necessary.
-5) The visualization questions must be accompanied with an explanation as well as conclusions.
-6) **Write all the answers in point form. Answers must be to the point.**
+Most studies are recruiting indicating a need of skilled individuals
 
-## Submission procedure:
-Follow this video for the submission. <br>
-https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=sharing
+Hydroxychloroquine is most used Intervention
 
-## Pull request naming format:
-  #### Name_Dataset name <br>
-  For example: Manvi Kaur_Loan Default Prediction
-  
-For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
-ALL THE BEST!!
+Most Studies involve (Adult, Older Adult) Population with very few studies focussed on Children
 
-## SUBMIT BY 2nd JULY 6PM SHARP
+Most studies have 0-40k participants in the clinical trials
+
+Most Studies follow observational and interventional methodology
+
+Most Studies take place in USA and France.
+
+Max Funding for these Clinical trials are done by 'Industries'. Some studies are funded by NIH and US-FEDs
+
+Most Studies aim to be completed by 2020-2025
