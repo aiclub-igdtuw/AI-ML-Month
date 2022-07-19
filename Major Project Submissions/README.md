@@ -1,6 +1,6 @@
 # Major project : 
 # (This can done in groups of 2 - 3 people)
-COLAB LINK: file:///C:/Users/Smriti/Downloads/python%20and%20machine%20learning.html
+colab link:https://colab.research.google.com/drive/1fb1tcKGGtWzMXtZCZ2LdwsGyEV6sH8qi#scrollTo=liZvx79yTyHi
 ## Problem Statements - 
 ![1](https://user-images.githubusercontent.com/82227477/177264668-ce254b14-e8b7-49b7-82d7-3e307a011916.png)<br>
 ![2](https://user-images.githubusercontent.com/82227477/177264800-aa8896e5-ead8-40c6-be94-f53d1ee56aca.png)<br>
