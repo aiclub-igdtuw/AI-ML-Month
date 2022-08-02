@@ -86,4 +86,10 @@ https://www.youtube.com/watch?v=ok2s1vV9XW0&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn
 PROJECT SUBMISSIONS
 
 
+colab link :https://colab.research.google.com/drive/1qecWsSNiZGPW83Xo0mpashsZaD5us6AZ?usp=sharing 
+conclusions:(1) State is only qualitative variable in dataset other variables are qualitative
+(2) year and total production id negatively related that means over the years total production has been decreased 
+(3) total production has decreased over the years while production value has increased 
+(4) Number of colonies are greater than or equal to 60000 over the yeas 
+
 
