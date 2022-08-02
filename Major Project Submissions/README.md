@@ -54,3 +54,4 @@ Project : Breast Cancer Predictions
 Models : SVM ,logistic regression , KNN 
 Best Model : KNN(precision : 0.955 , recall : 0.9333 , accuracy : 0.930 , f1 score : 0.94) 
 link of the file as as followed : https://colab.research.google.com/drive/1SvTlnGS6PPen7SuG79L0rod-0XBAFKZj#scrollTo=VwD344UZrweT
+#the above link is of my project which is made on google collab 
