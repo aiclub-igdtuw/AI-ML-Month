@@ -1,5 +1,5 @@
 # SOLUTION
 
-Problem Statement- Honey Production<br>
+Problem Statement- Twitter Sentiment Ananlysis<br>
 Submitted by- Jhanvee Khola<br>
-Minor Project- https://colab.research.google.com/drive/1qrn9CqbFGFkzIdNzEaOWa49YSTOP_83i?usp=sharing
+Major Project- https://colab.research.google.com/drive/1gl14UX0DmJUs8GIfe7_ADex80tU65DLP?usp=sharing
