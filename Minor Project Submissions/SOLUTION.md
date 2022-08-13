@@ -1,6 +1,7 @@
 # SOLUTION
 
-colab link:https://colab.research.google.com/drive/11jbjEpV458JhTvVf0Lnw9tVqR57KZ0y_?usp=sharing
+Loan Default Prediction
+Colab link: https://colab.research.google.com/drive/1tum3tHALgizxoIPTzfdGmw1eWWRnQG79?usp=sharing
 
 Ans 1: 205 number of people who will be given a grace period of exactly 15 days.<br>
 Ans 2: 11944.44 is the maximum fine levied by the bank in the period of 15 days.<br>
