@@ -33,5 +33,6 @@ https://drive.google.com/file/d/1Brs-mx4Q9jlNVrevFZ2pVUNX5G235Tjc/view?usp=shari
   
 For any doubts or queries, put them on our discord server (doubts will be entertained on the ask-oc channel only) and we'll get back to you.
 ALL THE BEST!!
+google colab notebook https://colab.research.google.com/drive/1WasHDbe50vZcHKFAzqZ2AS0kvKGSIlfc?usp=sharing 
 
 ## SUBMIT BY 2nd JULY 6PM SHARP
