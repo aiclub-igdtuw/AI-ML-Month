@@ -4,6 +4,6 @@
 # Built:
 - Mojor Project - Heart Rate predictor Model ( Teammate - Adwita Singh, IGDTUW, IT)
 - Minor Project - Superstore dataset analysis to predict different sales parameters (Individual)
-- [Review paper on Major Project](https://drive.google.com/file/d/14u2EHXhgeFvErygpwPCCU42TJYNX6J7A/view?usp=sharing)
+- [Review paper on Major Project](https://drive.google.com/file/d/1TsJnInHTDLE4nYRv0j7QMkV2edceSLy_/view?usp=sharing)
 
 
