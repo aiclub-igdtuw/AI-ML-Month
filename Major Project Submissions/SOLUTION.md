@@ -8,7 +8,7 @@ Dhyani Patel (07201182021)
 Shreya Bansal (05601182021)
 Jeevika Arora (07701182021)
 
-Google Collab Link: https://colab.research.google.com/drive/1nWyU2PQ9JuHNS3va-1fWInxnalrZDhB_#scrollTo=OH9vii-H9NFa
+Google Collab Link: https://colab.research.google.com/drive/1FQuMKkPjVg6-kr3a5zOmTjllC3_-IKvv?usp=sharing
 
 # Results
 Machine Learning Models Used: Logistic Regression
