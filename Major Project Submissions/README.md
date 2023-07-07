@@ -3,8 +3,9 @@
 
 Welcome to the Diabetes Prediction Model repository! This project contains a machine learning model designed to predict the likelihood of an individual having diabetes based on various health-related features.
 
-# 🔗 Colab Link  : https://colab.research.google.com/drive/1Bjw1aC1P-tNOShh0TxQcqP6lAwMm7qP5?usp=sharing
-
+# 🔗 Colab Link 
+ - https://colab.research.google.com/drive/1Bjw1aC1P-tNOShh0TxQcqP6lAwMm7qP5?usp=sharing
+   
 ## 🚀 Features
 - **Data Analysis**: Perform exploratory data analysis (EDA) on the diabetes dataset to gain insights and understand the data.
 - **Feature Engineering**: Extract relevant features from the dataset and preprocess them to prepare the data for training the prediction model.
