@@ -15,7 +15,7 @@ Welcome to the Diabetes Prediction Model repository! This project contains a mac
 ## 🛠️ Technologies Used
 - **Programming Language**: Python 🐍
 - **Machine Learning Libraries**: scikit-learn 🧠
-- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn 📊
+- **Data Analysis and Visualization**: Pandas, Numpy, Matplotlib 📊
 - **Model Used **: Logistic Regression, KNN and SVM Model 🌐
 
 ## 🤝 Contributing
