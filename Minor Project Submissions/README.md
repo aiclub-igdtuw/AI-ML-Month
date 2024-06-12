@@ -1,5 +1,10 @@
 # Mini project :
 
+Colab Link: https://colab.research.google.com/drive/1JR_ILEP5kmPRq0Z4WGTUlMbp54I4-oIk#scrollTo=2k5wzy03iDhi
+
+All analysis and explanations have been done in the colab notebook itself.
+
+
 ## Problem Statements
 
 ![Minor Project Problem Statements(1)-1](https://user-images.githubusercontent.com/77978729/174480488-d7cb66be-ff7c-4e9c-bc50-e3afa73df761.png)<br>
