@@ -1,2 +1,6 @@
 # SOLUTION
-
+MRIDULA KUMAR
+CSAI
+00901172021
+SUPERSTORE DATA PROJECT
+MINOR PROJECT LINK-https://colab.research.google.com/drive/1LuCOecUmkEuRyI9j-gaXOVfPnUMXARTk?usp=sharing
