@@ -33,6 +33,7 @@ Detection of Fake News: https://www.kaggle.com/datasets/ruchi798/source-based-ne
 You can go through all the problem statements above and pick one to solve. After that follow these steps -
 1) Create a jupyter notebook or a colab notebook.
 2) Show all the calculations required and print them.
+I am attaching link of my project : https://colab.research.google.com/drive/1SvTlnGS6PPen7SuG79L0rod-0XBAFKZj#scrollTo=VwD344UZrweT
 3) The final calculation for the answer must be in a separate cell.
 4) Create a text cell to give explanations wherever you think is necessary.
 5) The visualization questions must be accompanied with an explanation as well as conclusions.
@@ -51,3 +52,5 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 10th JULY 11:59PM SHARP
+
+https://colab.research.google.com/drive/1SvTlnGS6PPen7SuG79L0rod-0XBAFKZj#scrollTo=VwD344UZrweT
